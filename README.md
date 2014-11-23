@@ -1,4 +1,6 @@
 helloworld
 ==========
 
-Some basic, "get your learn on" type shit.
+This is my first attempt at making changes.
+I will then commit said changes.
+Bam.
